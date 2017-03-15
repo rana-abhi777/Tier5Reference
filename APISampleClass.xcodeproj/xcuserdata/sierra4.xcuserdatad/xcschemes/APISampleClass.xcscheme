@@ -28,36 +28,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B9CA2A1E1E54DC9D00B5EEA9"
-               BuildableName = "APISampleClassTests.xctest"
-               BlueprintName = "APISampleClassTests"
-               ReferencedContainer = "container:APISampleClass.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B9CA2A291E54DC9D00B5EEA9"
-               BuildableName = "APISampleClassUITests.xctest"
-               BlueprintName = "APISampleClassUITests"
-               ReferencedContainer = "container:APISampleClass.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B9CA2A3C1E54DCC600B5EEA9"
-               BuildableName = "APISampleClassTests copy.xctest"
-               BlueprintName = "APISampleClassTests copy"
-               ReferencedContainer = "container:APISampleClass.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
